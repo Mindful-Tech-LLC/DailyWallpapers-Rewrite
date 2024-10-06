@@ -19,9 +19,6 @@ Console application that checks Bing's api for new daily images, and sets them a
 
 Simple and easy installation. Head over to <a href="https://github.com/aisyshk/DailyWallpapers-Rewrite/releases/latest">the latest release</a> and download the `DailyWallpapers.10062024.zip` file.
 
-<img src="./docs/srccd.png" />
-
-
 Once downloaded, unzip `DailyWallpapers.10062024.zip` open it.
 
 <img src="./docs/dl1.png" /> <img src="./docs/dl2.png" />
